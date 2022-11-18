@@ -1,0 +1,19 @@
+// Here you can add other styles
+.mt-20 {
+    margin-top: 20px;
+}
+
+.title-resumo {
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-align: center;
+    text-transform: uppercase;
+    color: #004c99;
+}
+.arrow-left-rotation{
+    transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+}
