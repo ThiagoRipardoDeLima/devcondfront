@@ -34,3 +34,5 @@ Rode `build` para preparar o projeto para produção. Os arquivos gerados são a
 # build for production with minification
 $ npm run build
 ```
+
+# teste
